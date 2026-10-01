@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
+- Project 1: VEXcode VR 
 
 - Project 2: Description
 
