@@ -2,7 +2,9 @@
 
 ## Projects
 
-- Project 1: VEXcode VR 
+- Project 1: [VEX VR](vex-vr.md) 
+  In Vex VR I program their virtual robot and control it, in order to complete assignments/challenges and clear obstacles.
+  
 
 - Project 2: Description
 
