@@ -7,7 +7,9 @@
    In Vex VR I program their virtual robot and control it, in order to complete assignments/challenges and clear obstacles. And i learn these things in order to program the robot.
   
 
-- Project 2: Description
+- Project 2: [Engineering notbook](engineering-notebook.md)
+index.md
+-  Building and driving a race robot. Engineering and programming a robot that fully functional and be able to control it with a controller and able to drive it without any problem
 
 ## About Me
 
