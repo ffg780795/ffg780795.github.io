@@ -8,7 +8,7 @@
 
 - Project 2: [Engineering notbook](engineering-notebook.md)
 index.md
--  Building and driving a race robot. Engineering and programming a robot that fully functional and be able to control it with a controller and able to drive it without any problem
+   Building and driving a race robot. Engineering and programming a robot that fully functional and be able to control it with a controller and able to drive it without any problem
 
 ## About Me
 
