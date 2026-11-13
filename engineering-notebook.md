@@ -42,3 +42,37 @@ Some encounter we faced was the controller issues and connection issues with the
 What i learned is that each wires has its purpose but also improvising on the driving and building
 
 ---------
+
+## Day 4
+
+— Date: Nov 7th, 2026
+
+Absent that day
+
+---------
+
+## Day 5
+
+— Date: Nov 13th, 2026
+
+Required notebook update today:
+
+Cardboard measurement length:
+
+Cardboard measurement width:
+
+Robot measurement length:
+
+Robot measurement width:
+
+Length scale: __:__
+
+Width scale: __:__
+
+Smallest width of the model racetrack: ___mm
+Apply scale: smallest width X scale = ___ mm
+
+Convert to cm =
+
+Reflection: what you learned today
+anything else you did if there was extra time
